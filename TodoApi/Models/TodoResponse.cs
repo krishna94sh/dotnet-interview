@@ -1,6 +1,6 @@
-namespace TodoApi.Models
+namespace TodoApi.Models.DTOs
 {
-    public class Todo
+    public class TodoResponse
     {
         public int Id { get; set; }
 
